@@ -62011,8 +62011,8 @@ var editor;
                                   })
                                 ))
                           : ((0, l.A)("ads", "slot"),
-                            (e.style.width = "160px"),
-                            ((0, n.Ay)("workspace").style.right = "164px"),
+                            (e.style.width = "0"),
+                            ((0, n.Ay)("workspace").style.right = "0"),
                             Math.random() < 0.0
                               ? e.appendChild(
                                   (0, n.T)("iframe", {
