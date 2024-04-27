@@ -62013,7 +62013,7 @@ var editor;
                           : ((0, l.A)("ads", "slot"),
                             (e.style.width = "160px"),
                             ((0, n.Ay)("workspace").style.right = "164px"),
-                            Math.random() < 0.5
+                            Math.random() < 0.0
                               ? e.appendChild(
                                   (0, n.T)("iframe", {
                                     id: "iasriiigh",
