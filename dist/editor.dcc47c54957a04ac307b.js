@@ -62021,7 +62021,7 @@ var editor;
                                     frameBorder: "0",
                                     scrolling: "no",
                                     style:
-                                      "width:160px;height:100%;overflow:hidden;",
+                                      "width:0;height:0;overflow:hidden;",
                                   })
                                 )
                               : e.appendChild(
@@ -62031,7 +62031,7 @@ var editor;
                                     frameBorder: "0",
                                     scrolling: "no",
                                     style:
-                                      "width:160px;height:100%;overflow:hidden;",
+                                      "width:0;height:0;overflow:hidden;",
                                   })
                                 ));
                       } catch (t) {
